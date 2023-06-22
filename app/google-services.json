@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227971377577",
+    "project_id": "lastqlsv",
+    "storage_bucket": "lastqlsv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227971377577:android:fc55fb5a199e8b8fadfcb8",
+        "android_client_info": {
+          "package_name": "com.example.quanlysinhvien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227971377577-6kdjmks9l71itmkcsmje7cld6507c3ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV1vO2wDetKQ4XZWehl4bi0hDXMmHBfEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227971377577-6kdjmks9l71itmkcsmje7cld6507c3ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

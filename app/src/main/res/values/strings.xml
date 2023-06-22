@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quản lí sinh viên</string>
+
+    <string name="app_trang_chu">Trang chủ</string>
+    <string name="app_lich_su">Lịch sử</string>
+    <string name="app_tai_khoan">Tài khoản</string>
+
+    <string name="app_dang_xuat">Đăng xuất</string>
+    <string name="app_ve_chung_toi">Về chúng tôi</string>
+
+    <string name="nav_drawer_open">Mở ngăn kéo navigation</string>
+    <string name="nav_drawer_close">Đóng ngăn kéo navigation</string>
+
+    <string name="menu_sua_sinh_vien">Sửa sinh viên</string>
+    <string name="menu_xoa_sinh_vien">Xóa</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_trang_chu"
+             android:title="@string/app_trang_chu"
+            android:icon="@drawable/ic_trang_chu"/>
+<!--        <item android:id="@+id/nav_lich_su"-->
+<!--            android:title="@string/app_lich_su"-->
+<!--            android:icon="@drawable/ic_lich_su"/>-->
+        <item android:id="@+id/nav_tai_khoan"
+            android:title="@string/app_tai_khoan"
+            android:icon="@drawable/ic_tai_khoan"/>
+<!--        <item android:id="@+id/nav_ve_chung_toi"-->
+<!--            android:title="@string/app_ve_chung_toi"-->
+<!--            android:icon="@drawable/ic_vct"/>-->
+        <item android:id="@+id/nav_dang_xuat"
+            android:title="@string/app_dang_xuat"
+            android:icon="@drawable/ic_dang_xuat"/>
+    </group>
+</menu>
